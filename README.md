@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vyshnavi Patchava
-- 👀 I’m interested in Data Analysis, Power BI
-- 🌱 I’m currently enhancing my knowledge on SQL,TABLEAU, Power BI
+- 👀 I’m interested in Data Analysis, Power BI and R studio.
+- 🌱 I’m currently enhancing my knowledge on SQL,TABLEAU, Power BI and R studio.
 - 💞️ I’m looking to collaborate on Deriving insights from raw data.
 - 📫 You can reach me by my email.
 
